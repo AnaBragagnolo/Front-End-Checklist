@@ -3,6 +3,8 @@
 The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website /
 HTML page to production.
 
+TESTE ANA AULA PÓS
+
 **Other Checklists:**
 
 - [🎮 Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist#---------front-end-performance-checklist-)
